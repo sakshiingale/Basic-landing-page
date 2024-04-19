@@ -1,5 +1,6 @@
-A basic landing page created for a luxurious home designing website.
-based on following problem statement of an internship task:
+A basic LANDING PAGE created for a luxurious home designing website.
+
+Based on following problem statement of an internship task:
 
 A landing page is an ideal web development project for beginners. It requires basic
 knowledge of HTML and CSS. Through this project, you'll learn to create columns, divide
